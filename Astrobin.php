@@ -1,4 +1,4 @@
-<?php namespace AstroBin;
+<?php namespace Astrobin;
 
 class Astrobin {
 
